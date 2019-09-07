@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teamtomato/static/css/main.2cce8147.chunk.css",
+    "main.js": "/teamtomato/static/js/main.35eaa904.chunk.js",
+    "main.js.map": "/teamtomato/static/js/main.35eaa904.chunk.js.map",
+    "runtime~main.js": "/teamtomato/static/js/runtime~main.21d38c19.js",
+    "runtime~main.js.map": "/teamtomato/static/js/runtime~main.21d38c19.js.map",
+    "static/js/2.b73adba2.chunk.js": "/teamtomato/static/js/2.b73adba2.chunk.js",
+    "static/js/2.b73adba2.chunk.js.map": "/teamtomato/static/js/2.b73adba2.chunk.js.map",
+    "index.html": "/teamtomato/index.html",
+    "precache-manifest.47d2a75e3e1fcd4f90a9d2f3b43f9850.js": "/teamtomato/precache-manifest.47d2a75e3e1fcd4f90a9d2f3b43f9850.js",
+    "service-worker.js": "/teamtomato/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/teamtomato/static/css/main.2cce8147.chunk.css.map"
+  }
+}
